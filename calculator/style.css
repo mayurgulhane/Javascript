@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+   
+}
+table{
+    margin: auto;
+    padding-top: 10px;
+}
+input{
+    border-radius: 10px;
+    border: 5px solid rosybrown;
+    height: 43px;
+    width: 300px;
+    font-size: 34px;
+}
+button{
+    border-radius: 10px;
+    background: rgb(110, 106, 106);
+    font-size: 25px;
+    width: 72px;
+    height: 41px;
+    margin: 2px;
+    color: wheat;
+}
+.calculator{
+    border: 4px solid #0a0a0a;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: rgb(56, 54, 54);
+   padding:15px;
+}
+.equal-sign {
+    background-color: #2e86c0;
+  }
+  h1{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
